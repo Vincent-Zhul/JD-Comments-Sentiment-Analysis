@@ -31,16 +31,16 @@ Sentiment analysis is a very important work. It plays an important role in many 
 
 ## Route Map
 * Overview of crawler crawling results (due to limited time, not too much data is crawled)
-![首页展示](https://github.com/anycodes/SentimentAnalysis/blob/master/picDic/1.png?raw=true)
+![首页展示](https://github.com/Vincent-Zhul/JD-Comments-Sentiment-Analysis/blob/main/Processing%20Picture/1.png)
 * Details of crawler crawling results (part)
-![首页展示](https://github.com/anycodes/SentimentAnalysis/blob/master/picDic/2.png?raw=true)
+![首页展示](https://github.com/Vincent-Zhul/JD-Comments-Sentiment-Analysis/blob/main/Processing%20Picture/2.png)
 * Corpus after cleaning
-![首页展示](https://github.com/anycodes/SentimentAnalysis/blob/master/picDic/3.png?raw=true)
+![首页展示](https://github.com/Vincent-Zhul/JD-Comments-Sentiment-Analysis/blob/main/Processing%20Picture/3.png)
 * Corpus after word segmentation
-![首页展示](https://github.com/anycodes/SentimentAnalysis/blob/master/picDic/4.png?raw=true)
+![首页展示](https://github.com/Vincent-Zhul/JD-Comments-Sentiment-Analysis/blob/main/Processing%20Picture/4.png)
 * Sentence length distribution in the sample
-![首页展示](https://github.com/anycodes/SentimentAnalysis/blob/master/picDic/5.png?raw=true)
+![首页展示](https://github.com/Vincent-Zhul/JD-Comments-Sentiment-Analysis/blob/main/Processing%20Picture/5.png)
 * Loss and approximate diagram
-![首页展示](https://github.com/anycodes/SentimentAnalysis/blob/master/picDic/6.png?raw=true)
+![首页展示](https://github.com/Vincent-Zhul/JD-Comments-Sentiment-Analysis/blob/main/Processing%20Picture/6.png)
 * Screenshot of operation results (part)
-![首页展示](https://github.com/anycodes/SentimentAnalysis/blob/master/picDic/7.png?raw=true)
+![首页展示](https://github.com/Vincent-Zhul/JD-Comments-Sentiment-Analysis/blob/main/Processing%20Picture/7.png)
