@@ -2,7 +2,7 @@
 Emotion analysis based on deep learning (LSTM) (JD mall data)
 
 ## Purpose
-Through the LSTM algorithm, the emotional analysis of e-commerce comments is realized.
+Through the LSTM algorithm, realize the emotional analysis of e-commerce comments.
 
 ## Procedures
 * Analyze jd.com website and collect data through distributed crawlers
